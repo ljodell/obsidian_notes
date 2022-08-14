@@ -1,0 +1,158 @@
+
+# Checkboxes
+- [ ] Unchecked `- [ ]`
+- [x] Checked `- [x]`
+- [>] Rescheduled `- [>]`
+- [<] Scheduled `- [<]`
+- [!] Important `- [!]`
+- [-] Cancelled `- [-]`
+- [/] In Progress `- [/]`
+- [?] Question `- [?]`
+- [*] Star `- [*]`
+- [n] Note `- [n]`
+- [l] Location `- [l]`
+- [i] Information `- [i]`
+- [I] Idea `- [I]`
+- [S] Amount `- [S]`
+- [p] Pro `- [p]`
+- [c] Con `- [c]`
+- [b] Bookmark `- [b]`
+- [f] Fire `- [ f ]`
+- [w] Win `- [w]`
+- [k] Key `- [k]`
+- [u] Up `- [u]`
+- [d] down `- [d]`
+- [F] Feature `- [F]`
+- [r] Rule `- [r]`
+- [m] Measurement `- [m]`
+- [M] Medical `- [M]`
+- [L] Language `- [L]`
+- [t] Clock `- [t]`
+- [T] Telephone `- [T]`
+- [P] Person `- [P]`
+- [#] Tags `- [#]`
+- [W] World `- [W]`
+- [U] Universe `- [U]`
+
+
+ ↰ ↱ ↲ ↳  ↴ ↵ 
+ 
+ # Box Drawing
+ 
+| Symbol | Alt Code |
+|:------:|:--------:|
+|   ─    |  +2500   |
+|   │    |  +2502   |
+|   ┌    |  +250c   |
+|   ┐    |  +2501   |
+|   └    |  +2514   |
+|   ┘    |  +2518   |
+|   ├    |  +251c   |
+|   ┤    |  +2524   |
+|   ┬    |  +252c   |
+|   ┴    |  +2534   |
+|   ┼    |  +253c   |
+
+# Callouts
+
+> [!quote] Quote, Cite
+
+> [!note]
+
+> [!shopping] Shopping List
+
+> [!tldr]
+
+> [!example]
+
+> [!help]
+
+> [!Related] Related
+
+> [!Backstory] Backstory
+
+> [!question] Question/FAQ
+
+> [!abstract] Abstract
+
+> [!Links] Links
+
+> [!Translation] Translation
+
+> [!info] Info
+
+> [!todo]
+
+> [!backlog] Backlog
+
+> [!morning] Morning
+
+> [!Meditate] Meditate
+
+> [!currently] Currently
+
+> [!tip] Tip
+
+> [!hint]
+
+> [!check] Check, Done
+
+> [!money] Money
+
+> [!pro] Pro
+
+> [!World] World
+
+> [!summary]
+
+> [!doing] Doing, In Progress
+
+> [!warning] Warning, Caution, Attention
+
+> [!idea] Idea
+
+> [!Feature] Feature
+
+> [!target] Target
+
+> [!con] Con
+
+> [!important]
+
+> [!failure] Failure, Fail, Missing
+
+> [!Conflict] Conflict, Challenge, Encounter
+
+> [!danger] Danger, Error
+
+> [!error]
+
+> [!bug]
+
+> [!Resources] Resources
+
+> [!celebrate] Celebrate
+
+> [!success] Success
+
+# Loading
+10% `<progress value="10" max="100"></progress>`
+<progress value="10" max="100"></progress>
+20% `<progress value="20" max="100></progress>`
+<progress value="20" max="100"></progress>
+30% `<progress value="30" max="100"></progress>`
+<progress value="30" max="100"></progress>
+40% `<progress value="40" max="100"></progress>`
+<progress value="40" max="100"></progress>
+50% `<progress value="50" max="100"></progress>`
+<progress value="50" max="100"></progress>
+60% `<progress value="60" max="100"></progress>`
+<progress value="60" max="100"></progress>
+70% `<progress value="70" max="100"></progress>`
+<progress value="70" max="100"></progress>
+80% `<progress value="80" max="100"></progress>`
+<progress value="80" max="100"></progress>
+90% `<progress value="90" max="100"></progress>`
+<progress value="90" max="100"></progress>
+100% `<progress value="100" max="100"></progress>`
+<progress value="100" max="100"></progress>
